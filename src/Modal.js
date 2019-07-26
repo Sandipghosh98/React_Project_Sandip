@@ -106,6 +106,7 @@ class Modal extends Component{
                return (
                       <span style={{
                         height: 'auto',
+                        borderRadius: '25px',
                         width:'auto',
                         color:'white',
                         backgroundColor: 'purple',
