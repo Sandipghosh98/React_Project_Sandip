@@ -1,10 +1,11 @@
-#datestyle{
-    
- font-size: 40px;
- font-family: 'Francois One', sans-serif;
+#datestyle {
+
+    font-size: 40px;
+    font-family: 'Francois One', sans-serif;
 
 }
-#monthstyle{
+
+#monthstyle {
     margin-top: 10px;
     font-size: 20px;
     font-family: 'Francois One', sans-serif;
